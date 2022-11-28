@@ -1,0 +1,39 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    width: 100%;
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start,#status
+{
+font-size:22px;
+}
+#footer
+{
+    font-size: 22px;
+    line-height: 2;
+    margin: 0px;
+    background-color: white;
+    position: sticky;
+}
+.modal-body
+{
+    text-align: left;
+    font-size:20px;
+}
+#canvas
+{
+    box-shadow: 5px 5px 5px grey;
+    border: 10px solid red;
+    width:730px;
+}
